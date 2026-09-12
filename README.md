@@ -1,6 +1,6 @@
 # FishyGreensOS: Aquaponics & Multitrophic System Simulation
 
-An agent-based model built in NetLogo[cite: 1] that simulates a closed-loop recirculating aquaponics and integrated multitrophic aquaculture (IMTA) ecosystem, modeling the complex dynamics between aquatic species, vermaculture, and hydroponic plant beds[cite: 1].
+An agent-based model built in NetLogothat simulates a closed-loop recirculating aquaponics and integrated multitrophic aquaculture (IMTA) ecosystem, modeling the complex dynamics between aquatic species, vermaculture, and hydroponic plant beds[cite: 1].
 
 ## Overview
 
